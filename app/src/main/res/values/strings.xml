@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Compras - v1.0</string>
+    <string name="action_settings">Sobre o Aplicativo</string>
+    <string name="txtAplicativoListaDeCompras">Aplicativo Lista de Compras</string>
+    <string name="txtInserirRetirarItens">Inserir / Retirar itens da lista de compras:</string>
+    <string name="txtBotaoInserir">Inserir</string>
+    <string name="txtBotaoRetirar">Retirar</string>
+    <string name="txtListaProdutos">Lista de Produtos:</string>
+</resources>
